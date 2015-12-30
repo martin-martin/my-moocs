@@ -1,0 +1,57 @@
+body {
+	font-family: Georgia;
+}
+
+h1 {
+	text-align: center;
+	font-size: 40px;
+}
+
+.intro {
+	background-color: #ccc;
+	text-align: center;
+	/*font-family: Courier;*/
+	font-size: 0.75em;
+	color: white;
+	padding: 0.5em 15em;
+}
+
+.year_2014,
+.year_2015,
+.specializations {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: baseline;
+	justify-content: space-between;
+	margin: 1em 0;
+}
+
+.specializations {
+	background-color: beige;
+}
+
+.year_2014 {
+	background-color: yellow;
+	/*background-image: url(img/2014.svg);*/
+}
+
+.year_2015 {
+	background-color: red;
+	/*background-image: url(img/2015.svg);*/
+}
+
+.year {
+	flex-basis: 5%;
+	padding: 1em 2em;
+}
+
+.mooc {
+	flex-basis: 20%;
+	padding: 1em 2em;
+	/*background-color: blue;*/
+}
+
+img {
+	width: 14em;
+	height: 10em;
+}
