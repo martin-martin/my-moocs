@@ -1,0 +1,36 @@
+			{
+				"name" : "Gamification",
+				"image" : "",
+				"link" : "https://www.coursera.org/learn/gamification",
+				"text" : "Sounded interesting in terms of concept, but the course wasn't very. Got still quite far, but didn't complete it.",
+				"platform" : "Coursera",
+				"institution" : "University of Pennsylvania",
+				"date" : {
+					"start" : "",
+					"end" : ""
+				}
+			},
+			{
+				"name" : "Your Body in the World: Adapting to Your Next Big Adventure",
+				"image" : "",
+				"link" : "https://lagunita.stanford.edu/courses/HumanitiesSciences/EP101/Environmental_Physiology/info",
+				"text" : "A light and sweet course about Human Physiology. A guy tries getting cold, warm, high up, etc.",
+				"platform" : "Lagunita",
+				"institution" : "Stanford University",
+				"date" : {
+					"start" : "",
+					"end" : ""
+				}
+			},
+			{
+				"name" : "Personal &amp; Family Financial Planning",
+				"image" : "",
+				"link" : "https://www.coursera.org/course/uffinancialplanning",
+				"text" : "Worked through a quarter of the course. Got some practice and thinking about personal finances.",
+				"platform" : "Coursera",
+				"institution" : "University of Florida",
+				"date" : {
+					"start" : "2014-08-20",
+					"end" : "2015-10-15"
+				}
+			},

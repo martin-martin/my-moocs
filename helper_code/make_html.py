@@ -19,7 +19,7 @@ for section in all_moocs:
 		all_html += '''
 			<div class="mooc">
 				<h2>''' + mooc["name"] + '''</h2>
-				<a href="''' + mooc["link"] + '''"><img src="''' + mooc["image"] + '''"></a>
+				<a href="''' + mooc["link"] + '''" target="_blank"><img src="''' + mooc["image"] + '''"></a>
 				<p>
 					''' + mooc["text"] + '''
 				</p>

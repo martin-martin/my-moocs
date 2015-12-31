@@ -7,7 +7,7 @@
 				"name" : "Introduction to Programming Nanodegree",
 				"image" : "certificates/cert_ipnd.jpg",
 				"link" : "certificates_big/cert_ipnd.pdf",
-				"text" : "Learned to use HTML, CSS, some JavaScript and practiced Python programming. Among many other things, it set the foundation for me making this website :)",
+				"text" : "This ND includes a variety of independent MOOCs, for example: <em>Intro to HTML and CSS</em>, <em>Intro to Programming</em>, <em>Web Development</em>, <em>Object-Oriented Programming</em> and <em>Intro to JavaScript</em>. I learned to use HTML, CSS, some JavaScript and practiced Python programming. Additionally, I practiced my theoretical understanding of internet and computer basics. This ND also set the foundation for me making this website :)",
 				"platform" : "Udacity",
 				"institution" : "Udacity",
 				"date" : {
@@ -19,7 +19,7 @@
 				"name" : "Data Analyst Nanodegree",
 				"image" : "img/data_analyst.jpg",
 				"link" : "http://www.github.com/martin-martin",
-				"text" : "Still working on it, here's a link to my projects on github. So far I've encountered the SciPy stack (using iPython notebooks, numpy, pandas, matplotlib) and currently starting to work with cleaning and querying OSM data.",
+				"text" : "This ND summarizes a few MOOCs related to Data Science. I'm still working on it, so <a href='http://www.github.com/martin-martin'>here's a link</a> to my projects on github. So far I've encountered the SciPy stack (using iPython notebooks, numpy, pandas, matplotlib) and currently starting to work with cleaning and querying OSM data.",
 				"platform" : "Udacity",
 				"institution" : "Udacity",
 				"date" : {
@@ -46,10 +46,10 @@
 				}
 			},
 			{
-				"name" : "Process Mining: Data Science in Action",
+				"name" : "<em class='verified'>Verified:</em> Process Mining: Data Science in Action",
 				"image" : "certificates/cert_procmin.jpg",
 				"link" : "certificates_big/cert_procmin.pdf",
-				"text" : "Bringing data to life by mining the processes within. Creating process maps, working with ProM and Disco.",
+				"text" : "Bringing data to life by mining the processes within. Creating process maps, working with <em>ProM</em> and <em>Disco</em>. I rediscovered Charles Joseph Minard's <a href='https://upload.wikimedia.org/wikipedia/commons/2/29/Minard.png' target='_blank'><strong>map of Napoleon's defeat</strong></a> in Russia 1812-1813, which I find an inspiring example of Data Visualization. The course also talks about the similarities between processes and maps, and got me excited about cartography.",
 				"platform" : "Coursera",
 				"institution" : "TU/e - Technical University of Eindhoven",
 				"date" : {
@@ -61,7 +61,7 @@
 				"name" : "6.00.1x: Introduction to Computer Science and Programming Using Python",
 				"image" : "certificates/python_6001x.jpg",
 				"link" : "certificates_big/python_6001x.pdf",
-				"text" : "A quite different Introduction to Python programming, that felt like a great additions to my knowledge until then. It allowed me to approach the topic of programming much more theoretically, and I'd say it encompasses quite some aspects of Computer Science.",
+				"text" : "A quite different Introduction to Python programming, that felt like a great additions to my knowledge up to then. It allowed me to approach the topic of programming more theoretically, and I'd say it encompasses quite some aspects of Computer Science.",
 				"platform" : "edX",
 				"institution" : "Massachusetts Institute of Technology",
 				"date" : {
@@ -70,27 +70,27 @@
 				}
 			},
 			{
-				"name" : "Principles of Computing (Part 1)",
-				"image" : "",
-				"link" : "https://www.coursera.org/course/principlescomputing1",
-				"text" : "It's a successor to IIPWP, however I did not enjoy the course so much. Stopped working on it at some point.",
-				"platform" : "Coursera",
-				"institution" : "Rice University",
-				"date" : {
-					"start" : "2015-02-13",
-					"end" : "2015-05-22"
-				}
-			},
-			{
 				"name" : "Chicken Behaviour and Welfare",
 				"image" : "certificates/chickens.jpg",
 				"link" : "certificates_big/chickens.pdf",
-				"text" : "A beautiful course that taught me a lot of respect for chickens. Their peaks are extremely sensitve and great perceptive organs! I'd recommend the course to anyone.",
+				"text" : "A beautiful course that taught me a lot of respect for chickens. Their peaks are extremely sensitve and greatly skilled perceptive organs!",
 				"platform" : "Coursera",
 				"institution" : "Scotland's Rural College (SRUC) - The University of Edinburgh",
 				"date" : {
 					"start" : "2015-05-01",
 					"end" : "2015-05-21"
+				}
+			},
+			{
+				"name" : "Principles of Computing (Part 1)",
+				"image" : "",
+				"link" : "https://www.coursera.org/course/principlescomputing1",
+				"text" : "It's a successor to <em>An Introduction to Interactive Programming in Python</em>, however I did not enjoy this course as much. Too much aggressive 'joking' among the instructors. I stopped working on it after a while.",
+				"platform" : "Coursera",
+				"institution" : "Rice University",
+				"date" : {
+					"start" : "2015-02-13",
+					"end" : "2015-05-22"
 				}
 			},
 			{
@@ -109,7 +109,7 @@
 				"name" : "Circadian Clocks: how rhythms structure life",
 				"image" : "certificates/circaclock.jpg",
 				"link" : "certificates_big/circaclock.pdf",
-				"text" : "The processes behind and effects of natural rhythms in our lifes (and how they are getting damaged daily). Every cell has its own clock, and we use <em>Zeitgeber</em> (especially light!) to synchronize. Records of births in Spain showed a annual oscillation until: the advent of electrical light.",
+				"text" : "The processes behind and effects of natural rhythms in our lifes (and how they are getting damaged daily). Every cell has its own clock, and we use <em>Zeitgeber</em> (especially light!) to synchronize. Records of births in Spain showed an annual oscillation until: the advent of electrical light.",
 				"platform" : "Coursera",
 				"institution" : "Ludwigs-Maximilian-Universität München (LMU)",
 				"date" : {
@@ -121,7 +121,7 @@
 				"name" : "Welcome to Game Theory",
 				"image" : "certificates/welcomegametheory.jpg",
 				"link" : "certificates_big/welcomegametheory.pdf",
-				"text" : "This course made my mind go 'whoa!' pretty often. Concepts of Game Theory jumped into all aspects of my life, while I watched. There's a stable balance that situations converge to - but there are more stable situations. And only because one is happening, doesn't mean it's the best! (I guess usually it isn't) But because every move from there makes things worse, it's difficult to look for and find better.",
+				"text" : "This course made my mind go 'whoa!' pretty often. Concepts of Game Theory jumped into all aspects of my life through watching the lectures. There's a stable balance that situations converge to - but: there are <em>more</em> stable situations. And only because one of them is, doesn't mean it's the best one! (I guess usually it isn't) But because every move away from there makes things (temporarily) worse, it's difficult to look for, and to find a better equilibrium.",
 				"platform" : "Coursera",
 				"institution" : "University of Tokyo",
 				"date" : {
@@ -133,24 +133,12 @@
 				"name" : "Origins - Formation of the Universe, Solar System, Earth and Life",
 				"image" : "certificates/origins.jpg",
 				"link" : "certificates_big/origins.pdf",
-				"text" : "<em>Life, the Universe and Everything</em>. The course was very well made and I learned a lot about physics, astronomy (especially those metorites stayed with me), geology and paleobiology. Very thorough and insightful!",
+				"text" : "Sounds like <em>Life, the Universe and Everything</em>. :) The course was really well made and I learned a lot about physics, geology, paleobiology and astronomy (especially those metorites stayed with me). Very thorough, interesting and insightful!",
 				"platform" : "Coursera",
 				"institution" : "Natural History Museum - University of Copenhagen",
 				"date" : {
 					"start" : "",
 					"end" : "2015-02-06"
-				}
-			},
-			{
-				"name" : "Gamification",
-				"image" : "",
-				"link" : "https://www.coursera.org/learn/gamification",
-				"text" : "Sounded interesting in terms of concept, but the course wasn't very. Got still quite far, but didn't complete it.",
-				"platform" : "Coursera",
-				"institution" : "University of Pennsylvania",
-				"date" : {
-					"start" : "",
-					"end" : ""
 				}
 			},
 			{
@@ -169,7 +157,7 @@
 				"name" : "Dino 101 : Dinosaur Paleobiology",
 				"image" : "certificates/dino101.jpg",
 			 	"link" : "certificates_big/dino101.pdf",
-				"text" : "I'm a Dino-kid. Knew the names, had the magazines and loads of hard-plastic figures. This course was a dive into my and earth's past. Learned a lot of new things, and re-learned some others. When I was small, dinosaurs didn't have feathers yet ;)",
+				"text" : "I'm a Dino-kid. Knew the names, had the magazines and loads of hard-plastic figures. This course was a dive into my, and earth's, past. Learned a lot of new things, and re-learned some others. When I was small, dinosaurs didn't have feathers yet ;)",
 				"platform" : "Coursera",
 				"institution" : "University of Alberta",
 				"date" : {
@@ -187,7 +175,7 @@
 				"name" : "Internet History, Technology, and Security",
 				"image" : "certificates/insidetheinternet.jpg",
 				"link" : "certificates_big/insidetheinternet.pdf",
-				"text" : "There's still much more to learn, but I got some insights into the inner functioning of the internet. Listened to inventors talk, thought about the layer structure of TCP/IP and managed to grasp some basics.",
+				"text" : "There's still much more to learn, but I got some insights into the inner functionings of the internet. Listened to inventors talk, thought about the layer model of TCP/IP, encryption techniques, and altogether managed to grasp some basics.",
 				"platform" : "Coursera",
 				"institution" : "University of Michigan",
 				"date" : {
@@ -199,7 +187,7 @@
 				"name" : "Epidemics - the Dynamics of Infectious Diseases",
 				"image" : "certificates/epidemics.jpg",
 				"link" : "https://www.coursera.org/learn/epidemics",
-				"text" : "Extremely interesting and well done! I did the whole course and learned a lot - however no certificate because I didn't post in the Forums :/ So here's my custom made one.",
+				"text" : "Extremely interesting and well done! I did the whole course, passed all the quizzes and learned a lot (however, no certificate because I didn't do a forum post). I still felt like having the course among the others. Here I got to know about John Snow's <a href='https://upload.wikimedia.org/wikipedia/commons/2/27/Snow-cholera-map-1.jpg' target='_blank'><strong>Cholera map</strong></a> of 1855. A great example of gaining insights from spatial mapping of information.",
 				"platform" : "Coursera",
 				"institution" : "The Pennsylvania State University",
 				"date" : {
@@ -211,7 +199,7 @@
 				"name" : "Programming for Everybody (Python)",
 				"image" : "certificates/pythonlearn.jpg",
 				"link" : "certificates_big/pythonlearn.pdf",
-				"text" : "Yet another Intro to Python, a different and much lighter approach. The book is great (I read just a bit), and the course was a great way to relax a bit while still being on topic. Enjoyable!",
+				"text" : "Yet another Intro to Python, a different and much lighter approach. The book is great (I read just a bit), and the course was a great way to relax a little while still staying on topic. Enjoyable!",
 				"platform" : "Coursera",
 				"institution" : "University of Michigan",
 				"date" : {
@@ -244,22 +232,10 @@
 				}
 			},
 			{
-				"name" : "Your Body in the World: Adapting to Your Next Big Adventure",
-				"image" : "",
-				"link" : "https://lagunita.stanford.edu/courses/HumanitiesSciences/EP101/Environmental_Physiology/info",
-				"text" : "A light and sweet course about Human Physiology. A guy tries getting cold, warm, high up, etc.",
-				"platform" : "Lagunita",
-				"institution" : "Stanford University",
-				"date" : {
-					"start" : "",
-					"end" : ""
-				}
-			},
-			{
 				"name" : "Introductory Human Physiology",
 				"image" : "",
 				"link" : "https://www.coursera.org/learn/physiology",
-				"text" : "Gained some insights into how it all works inside of myself. Good course, covering cell biology up to organ functions. Worked on it quite some, but didn't finish. While swimming lengths in the pool, I was thinking about the molecular processes happening to me!",
+				"text" : "Gained some insights into how it all works inside of myself. Good course, covering cell biology up to organ functions. Worked on it quite some, but didn't finish. While swimming lengths in the pool, I was thinking about the molecular processes that were going on inside of me!",
 				"platform" : "Coursera",
 				"institution" : "Duke University",
 				"date" : {
@@ -268,10 +244,10 @@
 				}
 			},
 			{
-				"name" : "An Introduction to Interactive Programming in Python",
+				"name" : "<em class='verified'>Verified:</em> An Introduction to Interactive Programming in Python",
 				"image" : "certificates/cert_interactivepython.jpg",
 				"link" : "certificates_big/cert_interactivepython.pdf",
-				"text" : "My first MOOC learning <strong>Python</strong>. I coded some little games. Especially enjoyed the very well done <em>Peer Review System</em> that allowed me to see a lot of other people's code and learn from giving feedback.",
+				"text" : "My first MOOC learning <strong>Python</strong>. I coded some little games. I especially enjoyed the very well done <em>Peer Review System</em> that allowed me to see a lot of other people's code and learn from giving feedback.",
 				"platform" : "Coursera",
 				"institution" : "Rice University",
 				"date" : {
@@ -280,22 +256,10 @@
 				}
 			},
 			{
-				"name" : "Personal &amp; Family Financial Planning",
-				"image" : "",
-				"link" : "https://www.coursera.org/course/uffinancialplanning",
-				"text" : "Worked through a quarter of the course. Got some practice and thinking about personal finances.",
-				"platform" : "Coursera",
-				"institution" : "University of Florida",
-				"date" : {
-					"start" : "2014-08-20",
-					"end" : "2015-10-15"
-				}
-			},
-			{
 				"name" : "From the Big Bang to Dark Energy",
 				"image" : "certificates/bigbang.jpg",
 				"link" : "certificates_big/bigbang.pdf",
-				"text" : "I have a weakness for Astronomy. I find it thoroughly exciting to understand for a short moment how tiny we are as compared to the distances and sizes that roam the universe. I'm just a tiny dot on a dot that is nothing but a tiny dot in another (slightly bigger) tiny dot revolving around a dot that is still pretty damn small and represents little areas in a growing space with many (but compared to the size only a few) small clusters of all these same dots I talked about before.",
+				"text" : "I have a weakness for Astronomy. I find it thoroughly exciting to understand for a short moment how tiny we are as compared to the distances and sizes that roam the universe. I'm just a tiny dot on a dot that is nothing but a tiny dot in another (slightly bigger) tiny dot revolving around a dot that is still pretty damn small and represents little areas in a growing space with many (but compared to the size only a few) small clusters of all these same dots I talked about before. :o",
 				"platform" : "Coursera",
 				"institution" : "University of Tokyo",
 				"date" : {
@@ -320,7 +284,7 @@
 				"name" : "Managing Your Time, Money, and Career: MBA Insights for Undergraduates",
 				"image" : "certificates/managingmoney.jpg",
 				"link" : "certificates_big/managingmoney.pdf",
-				"text" : "Great tips and some handling of calculations. Got some insights into US culture, too. And yes: Compounding interest!",
+				"text" : "Great tips and some handling of calculations. The course had a light and enjoyable pace, with lots of <em>take-aways</em> :) Got some insights into US culture, too. And yes: Compounding interest!",
 				"platform" : "Coursera",
 				"institution" : "The Paul Merage School of Business - University of California, Irvine",
 				"date" : {
@@ -332,7 +296,7 @@
 				"name" : "Economics 1: Principles of Economics",
 				"image" : "certificates/principles_of_economics.jpg",
 				"link" : "certificates_big/principles_of_economics.pdf",
-				"text" : "Whoa! This was really good. My first real introduction to Economics ever, and so well delivered and gripping! I especially enjoyed the Orange-selling-game.",
+				"text" : "Whoa! This was really good. The first MOOC I completed, working on it only for a few days, since I discovered it not long before the deadline. It was also my first real introduction to Economics ever, and so well delivered and gripping! I especially enjoyed the Orange-selling-game.",
 				"platform" : "Lagunita",
 				"institution" : "Stanford University",
 				"date" : {

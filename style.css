@@ -4,16 +4,19 @@ body {
 }
 
 h1 {
-	text-align: center;
-	font-size: 40px;
+	font-size: 2.5rem;
 }
 
 .intro {
 	background-color: #ccc;
-	text-align: center;
 	font-size: 0.75em;
 	color: white;
 	padding: 0.5em 15em;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
 }
 
 .year_2014,
@@ -28,11 +31,11 @@ h1 {
 }
 
 .specializations {
-	background-color: #e01563;
+	background-color: #7bb819;
 }
 
 .year_2014 {
-	background-color: #e8a820;
+	background-color: #fec90b;
 }
 
 .year_2015 {
@@ -40,15 +43,25 @@ h1 {
 }
 
 .year_2016 {
-	background-color: #3eb991;
+	background-color: #e01563;
 }
 
 .year {
 	flex-basis: 5%;
 	padding: 1em 2em;
+	font-size: 2em;
+	color: white;
 }
 
 .mooc {
 	flex-basis: 20%;
 	padding: 1em 2em;
+}
+
+.verified {
+	color: white;
+}
+
+footer {
+	color: #ccc;
 }
