@@ -1,0 +1,345 @@
+[
+	{
+	"section" : "Specializations",
+	"moocs" :
+		[
+			{
+				"name" : "Introduction to Programming Nanodegree",
+				"image" : "certificates/cert_ipnd.jpg",
+				"link" : "certificates_big/cert_ipnd.pdf",
+				"text" : "Learned to use HTML, CSS, some JavaScript and practiced Python programming. Among many other things, it set the foundation for me making this website :)",
+				"platform" : "Udacity",
+				"institution" : "Udacity",
+				"date" : {
+					"start" : "2015-05-19",
+					"end" : "2015-07-10"
+				}
+			},
+			{
+				"name" : "Data Analyst Nanodegree",
+				"image" : "img/data_analyst.jpg",
+				"link" : "http://www.github.com/martin-martin",
+				"text" : "Still working on it, here's a link to my projects on github. So far I've encountered the SciPy stack (using iPython notebooks, numpy, pandas, matplotlib) and currently starting to work with cleaning and querying OSM data.",
+				"platform" : "Udacity",
+				"institution" : "Udacity",
+				"date" : {
+					"start" : "2015-05-19",
+					"end" : ""
+				}
+			}
+		]
+	},
+	{
+	"section" : "2015",
+	"moocs" :
+		[
+			{
+				"name" : "Using Python to Access Web Data",
+				"image" : "certificates/accessingwebdata.jpg",
+				"link" : "https://www.coursera.org/learn/python-network-data",
+				"text" : "Took it as a light introduction to data acquistion that I'm learning more in-depth in the Data Analyst ND.",
+				"platform" : "Coursera",
+				"institution" : "University of Michigan",
+				"date" : {
+					"start" : "2015-10-26",
+					"end" : "2015-12-14"
+				}
+			},
+			{
+				"name" : "Process Mining: Data Science in Action",
+				"image" : "certificates/cert_procmin.jpg",
+				"link" : "certificates_big/cert_procmin.pdf",
+				"text" : "Bringing data to life by mining the processes within. Creating process maps, working with ProM and Disco.",
+				"platform" : "Coursera",
+				"institution" : "TU/e - Technical University of Eindhoven",
+				"date" : {
+					"start" : "2015-10-02",
+					"end" : "2015-11-27"
+				}
+			},
+			{
+				"name" : "6.00.1x: Introduction to Computer Science and Programming Using Python",
+				"image" : "certificates/python_6001x.jpg",
+				"link" : "certificates_big/python_6001x.pdf",
+				"text" : "A quite different Introduction to Python programming, that felt like a great additions to my knowledge until then. It allowed me to approach the topic of programming much more theoretically, and I'd say it encompasses quite some aspects of Computer Science.",
+				"platform" : "edX",
+				"institution" : "Massachusetts Institute of Technology",
+				"date" : {
+					"start" : "",
+					"end" : "2015-08-15"
+				}
+			},
+			{
+				"name" : "Principles of Computing (Part 1)",
+				"image" : "",
+				"link" : "https://www.coursera.org/course/principlescomputing1",
+				"text" : "It's a successor to IIPWP, however I did not enjoy the course so much. Stopped working on it at some point.",
+				"platform" : "Coursera",
+				"institution" : "Rice University",
+				"date" : {
+					"start" : "2015-02-13",
+					"end" : "2015-05-22"
+				}
+			},
+			{
+				"name" : "Chicken Behaviour and Welfare",
+				"image" : "certificates/chickens.jpg",
+				"link" : "certificates_big/chickens.pdf",
+				"text" : "A beautiful course that taught me a lot of respect for chickens. Their peaks are extremely sensitve and great perceptive organs! I'd recommend the course to anyone.",
+				"platform" : "Coursera",
+				"institution" : "Scotland's Rural College (SRUC) - The University of Edinburgh",
+				"date" : {
+					"start" : "2015-05-01",
+					"end" : "2015-05-21"
+				}
+			},
+			{
+				"name" : "Introduction to Mathematical Thinking",
+				"image" : "certificates/maththink.jpg",
+				"link" : "certificates_big/maththink.pdf",
+				"text" : "It's one of my big tasks to train my math brain. This course was pleasant and interesting. I always liked logic, and I agree that one should take a walk/climb/bikeride as a break when brooding over some understanding.",
+				"platform" : "Coursera",
+				"institution" : "Stanford University",
+				"date" : {
+					"start" : "",
+					"end" : "2015-04-30"
+				}
+			},
+			{
+				"name" : "Circadian Clocks: how rhythms structure life",
+				"image" : "certificates/circaclock.jpg",
+				"link" : "certificates_big/circaclock.pdf",
+				"text" : "The processes behind and effects of natural rhythms in our lifes (and how they are getting damaged daily). Every cell has its own clock, and we use <em>Zeitgeber</em> (especially light!) to synchronize. Records of births in Spain showed a annual oscillation until: the advent of electrical light.",
+				"platform" : "Coursera",
+				"institution" : "Ludwigs-Maximilian-Universität München (LMU)",
+				"date" : {
+					"start" : "",
+					"end" : "2015-04-10"
+				}
+			},
+			{
+				"name" : "Welcome to Game Theory",
+				"image" : "certificates/welcomegametheory.jpg",
+				"link" : "certificates_big/welcomegametheory.pdf",
+				"text" : "This course made my mind go 'whoa!' pretty often. Concepts of Game Theory jumped into all aspects of my life, while I watched. There's a stable balance that situations converge to - but there are more stable situations. And only because one is happening, doesn't mean it's the best! (I guess usually it isn't) But because every move from there makes things worse, it's difficult to look for and find better.",
+				"platform" : "Coursera",
+				"institution" : "University of Tokyo",
+				"date" : {
+					"start" : "",
+					"end" : "2015-03-23"
+				}
+			},
+			{
+				"name" : "Origins - Formation of the Universe, Solar System, Earth and Life",
+				"image" : "certificates/origins.jpg",
+				"link" : "certificates_big/origins.pdf",
+				"text" : "<em>Life, the Universe and Everything</em>. The course was very well made and I learned a lot about physics, astronomy (especially those metorites stayed with me), geology and paleobiology. Very thorough and insightful!",
+				"platform" : "Coursera",
+				"institution" : "Natural History Museum - University of Copenhagen",
+				"date" : {
+					"start" : "",
+					"end" : "2015-02-06"
+				}
+			},
+			{
+				"name" : "Gamification",
+				"image" : "",
+				"link" : "https://www.coursera.org/learn/gamification",
+				"text" : "Sounded interesting in terms of concept, but the course wasn't very. Got still quite far, but didn't complete it.",
+				"platform" : "Coursera",
+				"institution" : "University of Pennsylvania",
+				"date" : {
+					"start" : "",
+					"end" : ""
+				}
+			},
+			{
+				"name" : "An Introduction to Consumer Neuroscience & Neuromarketing",
+				"image" : "certificates/neuromarketing.jpg",
+				"link" : "certificates_big/neuromarketing.pdf",
+				"text" : "This course had a very interesting topic, and the lectures were pleasant. However, the written projects I got to peer review showed that understanding didn't come too easily to everyone.",
+				"platform" : "Coursera",
+				"institution" : "Center for Decision Neuroscience - Copenhagen Business School (CBS)",
+				"date" : {
+					"start" : "",
+					"end" : "2015-02-04"
+				}
+			},
+			{
+				"name" : "Dino 101 : Dinosaur Paleobiology",
+				"image" : "certificates/dino101.jpg",
+			 	"link" : "certificates_big/dino101.pdf",
+				"text" : "I'm a Dino-kid. Knew the names, had the magazines and loads of hard-plastic figures. This course was a dive into my and earth's past. Learned a lot of new things, and re-learned some others. When I was small, dinosaurs didn't have feathers yet ;)",
+				"platform" : "Coursera",
+				"institution" : "University of Alberta",
+				"date" : {
+					"start" : "",
+					"end" : "2015-01-26"
+				}
+			}
+		]
+	},
+	{
+	"section" : "2014",
+	"moocs" :
+		[
+			{
+				"name" : "Internet History, Technology, and Security",
+				"image" : "certificates/insidetheinternet.jpg",
+				"link" : "certificates_big/insidetheinternet.pdf",
+				"text" : "There's still much more to learn, but I got some insights into the inner functioning of the internet. Listened to inventors talk, thought about the layer structure of TCP/IP and managed to grasp some basics.",
+				"platform" : "Coursera",
+				"institution" : "University of Michigan",
+				"date" : {
+					"start" : "",
+					"end" : "2015-01-21"
+				}
+			},
+			{
+				"name" : "Epidemics - the Dynamics of Infectious Diseases",
+				"image" : "certificates/epidemics.jpg",
+				"link" : "https://www.coursera.org/learn/epidemics",
+				"text" : "Extremely interesting and well done! I did the whole course and learned a lot - however no certificate because I didn't post in the Forums :/ So here's my custom made one.",
+				"platform" : "Coursera",
+				"institution" : "The Pennsylvania State University",
+				"date" : {
+					"start" : "",
+					"end" : ""
+				}
+			},
+			{
+				"name" : "Programming for Everybody (Python)",
+				"image" : "certificates/pythonlearn.jpg",
+				"link" : "certificates_big/pythonlearn.pdf",
+				"text" : "Yet another Intro to Python, a different and much lighter approach. The book is great (I read just a bit), and the course was a great way to relax a bit while still being on topic. Enjoyable!",
+				"platform" : "Coursera",
+				"institution" : "University of Michigan",
+				"date" : {
+					"start" : "",
+					"end" : "2015-01-12"
+				}
+			},
+			{
+				"name" : "Process Mining: Data Science in Action",
+				"image" : "certificates/procmin.jpg",
+				"link" : "certificates_big/procmin.pdf",
+				"text" : "Taught me a lot about processes and was a lively way to learn about Data Science. I enjoyed this course so much, that I re-took it in 2015, even paying for a <em>Verified certificate</em>",
+				"platform" : "Coursera",
+				"institution" : "TU/e - Technical University of Eindhoven",
+				"date" : {
+					"start" : "2015-11-25",
+					"end" : "2015-01-20"
+				}
+			},
+			{
+				"name" : "How to Learn Maths: For Students",
+				"image" : "",
+				"link" : "https://lagunita.stanford.edu/courses/Education/EDUC115-S/Spring2014/info",
+				"text" : "Totally sweet! Made me start playing with numbers, and visualize operations with coloured squares. I'm still planning to finish this one, but keeping it around for motivational boosts :)",
+				"platform" : "lagunita",
+				"institution" : "Stanford University",
+				"date" : {
+					"start" : "",
+					"end" : ""
+				}
+			},
+			{
+				"name" : "Your Body in the World: Adapting to Your Next Big Adventure",
+				"image" : "",
+				"link" : "https://lagunita.stanford.edu/courses/HumanitiesSciences/EP101/Environmental_Physiology/info",
+				"text" : "A light and sweet course about Human Physiology. A guy tries getting cold, warm, high up, etc.",
+				"platform" : "Lagunita",
+				"institution" : "Stanford University",
+				"date" : {
+					"start" : "",
+					"end" : ""
+				}
+			},
+			{
+				"name" : "Introductory Human Physiology",
+				"image" : "",
+				"link" : "https://www.coursera.org/learn/physiology",
+				"text" : "Gained some insights into how it all works inside of myself. Good course, covering cell biology up to organ functions. Worked on it quite some, but didn't finish. While swimming lengths in the pool, I was thinking about the molecular processes happening to me!",
+				"platform" : "Coursera",
+				"institution" : "Duke University",
+				"date" : {
+					"start" : "",
+					"end" : ""
+				}
+			},
+			{
+				"name" : "An Introduction to Interactive Programming in Python",
+				"image" : "certificates/cert_interactivepython.jpg",
+				"link" : "certificates_big/cert_interactivepython.pdf",
+				"text" : "My first MOOC learning <strong>Python</strong>. I coded some little games. Especially enjoyed the very well done <em>Peer Review System</em> that allowed me to see a lot of other people's code and learn from giving feedback.",
+				"platform" : "Coursera",
+				"institution" : "Rice University",
+				"date" : {
+					"start" : "2014-09-20",
+					"end" : "2014-11-22"
+				}
+			},
+			{
+				"name" : "Personal &amp; Family Financial Planning",
+				"image" : "",
+				"link" : "https://www.coursera.org/course/uffinancialplanning",
+				"text" : "Worked through a quarter of the course. Got some practice and thinking about personal finances.",
+				"platform" : "Coursera",
+				"institution" : "University of Florida",
+				"date" : {
+					"start" : "2014-08-20",
+					"end" : "2015-10-15"
+				}
+			},
+			{
+				"name" : "From the Big Bang to Dark Energy",
+				"image" : "certificates/bigbang.jpg",
+				"link" : "certificates_big/bigbang.pdf",
+				"text" : "I have a weakness for Astronomy. I find it thoroughly exciting to understand for a short moment how tiny we are as compared to the distances and sizes that roam the universe. I'm just a tiny dot on a dot that is nothing but a tiny dot in another (slightly bigger) tiny dot revolving around a dot that is still pretty damn small and represents little areas in a growing space with many (but compared to the size only a few) small clusters of all these same dots I talked about before.",
+				"platform" : "Coursera",
+				"institution" : "University of Tokyo",
+				"date" : {
+					"start" : "",
+					"end" : "2014-09-23"
+				}
+
+			},
+			{
+				"name" : "Child Nutrition and Cooking",
+				"image" : "certificates/childnutrition.jpg",
+				"link" : "https://www.coursera.org/learn/childnutrition",
+				"text" : "Thinking about US cooking- and eating-habits, and learning a little about government tries to decrease obesity. Did it in night shifts.",
+				"platform" : "Coursera",
+				"institution" : "Stanford University",
+				"date" : {
+					"start" : "",
+					"end" : "2014-12-18"
+				}
+			},
+			{
+				"name" : "Managing Your Time, Money, and Career: MBA Insights for Undergraduates",
+				"image" : "certificates/managingmoney.jpg",
+				"link" : "certificates_big/managingmoney.pdf",
+				"text" : "Great tips and some handling of calculations. Got some insights into US culture, too. And yes: Compounding interest!",
+				"platform" : "Coursera",
+				"institution" : "The Paul Merage School of Business - University of California, Irvine",
+				"date" : {
+					"start" : "",
+					"end" : "2014-09-14"
+				}
+			},
+			{
+				"name" : "Economics 1: Principles of Economics",
+				"image" : "certificates/principles_of_economics.jpg",
+				"link" : "certificates_big/principles_of_economics.pdf",
+				"text" : "Whoa! This was really good. My first real introduction to Economics ever, and so well delivered and gripping! I especially enjoyed the Orange-selling-game.",
+				"platform" : "Lagunita",
+				"institution" : "Stanford University",
+				"date" : {
+					"start" : "",
+					"end" : "2014-09-04"
+				}
+			}
+		]
+	}
+]
