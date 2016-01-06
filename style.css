@@ -22,7 +22,7 @@ a {
 .year_2014,
 .year_2015,
 .year_2016,
-.specializations {
+.programs {
 	display: flex;
 	flex-wrap: wrap;
 	align-items: baseline;
@@ -30,12 +30,12 @@ a {
 	margin: 1em 0;
 }
 
-.specializations {
-	background-color: #7bb819;
+.programs {
+	background-color: #fec90b;
 }
 
 .year_2014 {
-	background-color: #fec90b;
+	background-color: #7bb819;
 }
 
 .year_2015 {
