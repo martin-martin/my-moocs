@@ -5,7 +5,7 @@ with open("data.json") as f:
 
 all_html = ""
 for section in all_moocs:
-	if section["section"].lower() == "specializations":
+	if section["section"].lower() == "programs":
 		class_name = section["section"].lower()
 	else:
 		class_name = "year_" + section["section"].lower()
