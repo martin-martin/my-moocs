@@ -82,18 +82,6 @@
 				}
 			},
 			{
-				"name" : "Principles of Computing (Part 1)",
-				"image" : "",
-				"link" : "https://www.coursera.org/course/principlescomputing1",
-				"text" : "It's a successor to <em>An Introduction to Interactive Programming in Python</em>, however I did not enjoy this course as much. Too much aggressive 'joking' among the instructors. I stopped working on it after a while.",
-				"platform" : "Coursera",
-				"institution" : "Rice University",
-				"date" : {
-					"start" : "2015-02-13",
-					"end" : "2015-05-22"
-				}
-			},
-			{
 				"name" : "Introduction to Mathematical Thinking",
 				"image" : "certificates/maththink.jpg",
 				"link" : "certificates_big/maththink.pdf",

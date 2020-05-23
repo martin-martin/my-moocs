@@ -58,6 +58,10 @@ a {
 	padding: 1em 2em;
 }
 
+.mooc a img {
+	width: 250px;
+}
+
 .verified {
 	color: white;
 }
